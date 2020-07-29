@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 * News aggregator with custom scoring
 * Universal delivery tracker
 * Automate Spotify playlist creation from Youtube
+* MOOC search engine
 
 ### I enjoy working with:
 
