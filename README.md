@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aadithpm/">
   <img align="left" alt="Aadith's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mail:aadithpm@gmail.com">
+<a href="mailto:aadithpm@gmail.com">
   <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mail-dot-ru.svg" />
 </a>
 
