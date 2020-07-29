@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 * Express & Vue.js with TypeScript
 * Django (w/ Django REST Framework)
-* Apache Airflow & Spark
+* Airflow, Spark, pandas
 
 
 ----
