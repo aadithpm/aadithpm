@@ -25,15 +25,14 @@ Here are some ideas to get you started:
 
 ### Projects I'm currently working on:
 
-* News aggregator with custom scoring
-* Universal delivery tracker
+* Syncing Notion lists across different services (Spotify, Goodreads)
+* Pantry - services to make inventory easier
 * Automate Spotify playlist creation from Youtube
-* MOOC search engine
 
 ### I enjoy working with:
 
-* Express & Vue.js with TypeScript
-* Django (w/ Django REST Framework)
+* React, Flux, TypeScript
+* Anything Python
 * Airflow, Spark, pandas
 
 
