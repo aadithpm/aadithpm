@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 
 ### Projects I'm currently working on:
 
-* Syncing Notion lists across different services (Spotify, Goodreads)
-* Pantry - services to make inventory easier
-* Automate Spotify playlist creation from Youtube
+
 
 ### I enjoy working with:
 
-* React, Flux, TypeScript
+* C#
+* Typescript
 * Anything Python
 * Airflow, Spark, pandas
 
