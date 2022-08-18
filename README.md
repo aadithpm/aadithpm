@@ -25,16 +25,14 @@ Here are some ideas to get you started:
 
 ### Projects I'm currently working on:
 
+* [Speaker Discord Bot](https://github.com/aadithpm/speaker-bot)
 
+### Stuff I currently work with:
 
-### I enjoy working with:
-
-* C#
+* Golang
 * Typescript
-* Anything Python
-* Airflow, Spark, pandas
-
+* Kubernetes
 
 ----
 
-Please email me if you want to get in touch or want to collaborate (through the mail icon on the top).
+Please email me if you want to get in touch or want to collaborate.
