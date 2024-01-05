@@ -22,17 +22,3 @@ Here are some ideas to get you started:
 </a>
 
 <br/>
-
-### Projects I'm currently working on:
-
-* [Destiny Discord Bot](https://github.com/aadithpm/malayahati-bot/tree/main)
-
-### Stuff I currently work with:
-
-* Golang
-* Typescript
-* Kubernetes
-
-----
-
-Please email me if you want to get in touch or want to collaborate.
